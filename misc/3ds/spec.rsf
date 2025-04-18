@@ -47,7 +47,7 @@ AccessControlInfo:
   
   Priority                      : 16
   SystemMode                    : 80MB 
-  MaxCpu                        : 0x9E # Default
+  MaxCpu                        : 0xFF
   DisableDebug                  : false
   EnableForceDebug              : false
   CanWriteSharedPage            : false
